@@ -20,10 +20,10 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 🔋 *Battery Format*: 24V Systems, 8 prismatic cells in series
   - 📄 *Summary*: 28 LFP battery systems with nominal 160Ah capacity; used in RVs, solar storage, etc. Data spans 1 month to 5 years per system, totaling 133 million rows. Includes cell voltages, temperatures (shared), load current, and active balancing behavior. All units were returned due to perceived faults, introducing bias.
   - 📅 *Year*: Not specified (Field period ~5 years)
-  - 🔗 [Download Dataset](https://zenodo.org/record/7073380)
+  - 🔗 [Download Dataset](https://zenodo.org/records/13715694)
   - 📚 *Related Article*:  
     - *Gaussian Process-based Online Health Monitoring and Fault Analysis of Lithium-Ion Battery Systems from Field Data*  
-      *(Cell Reports Physical Science)*
+      *(Cell Reports Physical Science, DO 10.1016/j.xcrp.2024.102258)*
       
 - **EVBattery Dataset (labeled)**
   - 📍 *Chemistry*: NMC (Mixed)
