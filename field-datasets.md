@@ -13,6 +13,17 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 📚 *Related Articles*:
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
     - *Nature Energy, DOI 10.1038/s41560-024-01620-9*
+    - 
+- **M5BAT Large-Scale Battery Storage System Dataset**
+  - 📍 *Chemistry*: Lead-acid, LMO, LFP, LTO
+  - 🧪 *Test Type*: Field (Grid-scale hybrid stationary storage system)
+  - 🔋 *Battery Format*: 10 battery units (Pb, LMO, LFP, LTO); 6.19 MW / 7.78 MWh system
+  - 📄 *Summary*: Operational data from a 10-unit 6.2 MW hybrid battery system in Germany. Includes high-frequency (1Hz) measurements such as active/reactive power, SOC, voltage, current, inverter modes, and grid signals. Designed for FCR service, including performance data across technologies. Data spans April 2023 and is part of ongoing evaluations.
+  - 📅 *Year*: 2023 (report published 2024)
+  - 🔗 [Download Dataset](https://doi.org/10.18154/RWTH-2024-04895)
+  - 📚 *Related Reports*:  
+    - *M5BAT Large-Scale Battery Storage System Dataset: Evaluation Operation Report 04/2023*
+    - [M5BAT Research Portal](https://m5bat.isea.rwth-aachen.de/Projekt/Forschungsergebnisse/)
 
 - **Multi-Modal EV SOH Dataset (Nature Communications, 2025)**
   - 📍 *Chemistry*: NCM and LFP
@@ -24,7 +35,6 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 💾 [Code on GitHub](https://github.com/HoraceLiu1010/Multi-modal-SOH-estimation-framework)
   - 📚 *Related Article*:  
     - [Multi-modal framework for battery state of health evaluation using open-source electric vehicle data (Nature Communications)](https://doi.org/10.1038/s41467-025-56485-7)
-"""
 
 - **LFP Battery Systems Field Dataset**
   - 📍 *Chemistry*: LFP
@@ -68,4 +78,4 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 🔗 [Download Dataset](https://doi.org/10.1016/j.apenergy.2023.120954)
   - 📚 *Related Article*:  
     - [Prognostics of battery capacity based on charging data and data-driven methods for on-road vehicles (Applied Energy)](https://doi.org/10.1016/j.apenergy.2023.120954)
-"""
+
