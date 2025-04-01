@@ -59,7 +59,6 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Documentation*:
     - *PhD thesis*: Christoph R. Birkl, “Diagnosis and Prognosis of Degradation in Lithium-Ion Batteries”, University of Oxford, 2017
     - [Google Scholar - Howey Group](https://scholar.google.co.uk/citations?hl=en&user=AZdBXIkAAAAJ&view_op=list_works&sortby=pubdate)
-"""
 
 ---
 - **Stanford Severson Battery Cycle Life Dataset (LFP Fast Charging)**
@@ -84,6 +83,28 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/6645536)
   - 📚 *Related Article*:  
     - [Impedance-based forecasting under uneven usage (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-32422-w)
+---
+
+- **Lithium Inventory Tracking Dataset**
+  - 📍 *Chemistry*: NMC 811 (Li–LixNi0.8Mn0.1Co0.1O2)
+  - 🧪 *Test Type*: Lab (Cycling under different configurations)
+  - 🔋 *Battery Format*: Pouch/cylindrical (various)
+  - 📄 *Summary*: Dataset includes 12 sets of charge/discharge cycling data for NMC 811 cells with varying formulations, cell configurations, and testing protocols. Supports development of nondestructive lithium inventory tracking for SoH/SoL estimation and internal diagnostics.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://osf.io/2w4k3/)
+  - 📚 *Related Article*:  
+    - [Lithium inventory tracking for nondestructive monitoring (Nature Energy, 2024)](https://doi.org/10.1038/s41560-024-01476-z)
+---
+
+- **Accelerated Battery Life Testing Dataset**
+  - 📍 *Chemistry*: Lithium-ion (18650 cells)
+  - 🧪 *Test Type*: Lab (Accelerated lifecycle + second-life cycling)
+  - 🔋 *Battery Format*: Small packs (2× 18650 cells)
+  - 📄 *Summary*: Dataset includes accelerated life cycle testing of Li-ion battery packs composed of two 18650 cells under various loading conditions. Scenarios include constant load, random load, and second-life cycling, supporting research into lifetime prediction under diverse stressors.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://data.nasa.gov/download/xg3n-ngei/application%2Fzip)
+  - 📚 *Related Article*:  
+    - [Prognosis of Li-ion Batteries Under Large Load Variations (PHM Conference, 2023)](https://doi.org/10.36001/phmconf.2023.v15i1.3463)
 
 ---
 
@@ -95,7 +116,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📅 *Year*: 2022
   - 🔗 [Download Dataset](https://zenodo.org/records/6405084)
   - 📚 *Related Article*:  
-    - [Voltage relaxation for data-driven capacity estimation (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-29837-w)
+    - [Data-driven capacity estimation of commercial lithium-ion batteries from voltage relaxation (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-29837-w)
 
 ---
 
