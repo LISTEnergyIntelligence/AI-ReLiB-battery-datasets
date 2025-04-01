@@ -1,7 +1,20 @@
 # 🧪 Laboratory Battery Test Datasets
 
 A curated list of lab-tested lithium-ion battery datasets used for aging studies, cycle life, SoH estimation, and EoL prediction.
-
+---
+- **RWTH Battery Test Datasets**
+  - 📍 *Chemistry*: NMC/Graphite, NCA/C+Si
+  - 🧪 *Test Type*: Lab (Cyclic and drive cycle aging, CT imaging)
+  - 🔋 *Battery Format*: 18650 Cylindrical Cells
+  - 📄 *Summary*: Group of datasets from RWTH Aachen Institute for Power Electronics and Electrical Drives (ISEA):
+    1. **Cyclic Aging Dataset** – Time-series cycling of 48 commercial NMC/graphite Sanyo/Panasonic UR18650E cells.  
+       🔗 [DOI: 10.18154/RWTH-2021-04545](https://doi.org/10.18154/RWTH-2021-04545)
+    2. **CT Imaging Dataset** – Raw cycle and computed tomography (CT) image data of jelly roll deformation at low SoC in 18650 cells.  
+       🔗 [DOI: 10.18154/RWTH-2021-04558](https://doi.org/10.18154/RWTH-2021-04558)
+    3. **Drive Cycle Aging Dataset** – Time-series data from drive cycle testing of 28 high-energy NCA/C+Si 18650 round cells.  
+       🔗 [DOI: 10.18154/RWTH-2021-02814](https://doi.org/10.18154/RWTH-2021-02814)
+  - 📅 *Year*: 2021
+  - 📚 *Related Institution*: RWTH Aachen University – ISEA Battery Lab
 ---
 
 - **NASA Battery Data Set**
