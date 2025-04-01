@@ -205,4 +205,14 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/3633835)
   - 📚 *Related Article*:  
     - [Identifying degradation patterns via impedance + ML (Nature Communications, 2020)](https://doi.org/10.1038/s41467-020-15235-7)
-
+---
+- **PINN Battery Degradation Dataset**
+  - 📍 *Chemistry*: NCM (Nickel-Cobalt-Manganese)
+  - 🧪 *Test Type*: Lab (6 charging/discharging strategies)
+  - 🔋 *Battery Format*: 18650 Cylindrical Cells (55 units)
+  - 📄 *Summary*: Dataset includes degradation and cycling data from 55 NCM-based 18650 cells under six unique charging and discharging protocols. Used for developing and validating stable physics-informed neural networks for battery prognosis and health modeling.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://zenodo.org/records/10963339)
+  - 📚 *Related Article*:  
+    - [PINN for Li-ion degradation modeling (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-48779-z)
+"""
