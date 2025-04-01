@@ -194,4 +194,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
     - *The Battery Failure Databank: Insights from an Open-Access Database of Thermal Runaway Behaviors of Li-Ion Cells*, Journal of Power Sources (2024)
     - *Decoupling of Heat Generated from Ejected and Non-Ejected Contents of 18650 Cells*, Journal of Power Sources (2019)
     - *Internal Short Circuit Characterization and Radiography*, Energy & Environmental Science (2017), Advanced Science (2017), JES (2017)
+---
+
+- **Impedance Spectroscopy ML Dataset**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (Electrochemical impedance spectroscopy)
+  - 🔋 *Battery Format*: Not specified
+  - 📄 *Summary*: Dataset supports the use of machine learning to identify degradation patterns from electrochemical impedance spectroscopy (EIS) data. Enables mapping impedance features to battery health conditions.
+  - 📅 *Year*: 2020
+  - 🔗 [Download Dataset](https://zenodo.org/records/3633835)
+  - 📚 *Related Article*:  
+    - [Identifying degradation patterns via impedance + ML (Nature Communications, 2020)](https://doi.org/10.1038/s41467-020-15235-7)
 
