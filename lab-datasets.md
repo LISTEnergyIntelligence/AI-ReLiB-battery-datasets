@@ -51,6 +51,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+- **Continual Learning Battery Aging Dataset**
+  - 📍 *Chemistry*: Various (Pouch and prismatic Li-ion cells)
+  - 🧪 *Test Type*: Lab (Accelerated and non-accelerated aging)
+  - 🔋 *Battery Format*: Pouch and Prismatic
+  - 📄 *Summary*: Includes partial Q curves during charging, normalized capacity and SoH trends for different battery types under varied conditions. Dataset supports research into continual learning for generalizable battery health estimation. Dataset 5 includes full raw degradation data.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://data.mendeley.com/datasets/n3b54nsw8m/9)
+  - 📚 *Related Article*:  
+    - [Continual learning for generalizing battery health estimation (Cell Reports Physical Science, 2023)](https://doi.org/10.1016/j.xcrp.2023.101743)
 - **Galvanostatic Discharge Dataset (C-rates & Temperature Tests)**
   - 📍 *Chemistry*: Lithium-ion (specific chemistry not specified)
   - 🧪 *Test Type*: Lab (Galvanostatic discharge under controlled conditions)
