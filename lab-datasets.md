@@ -445,4 +445,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Articles*:
     - [Comprehensive cycle aging data for 21700 cells (J. Power Sources, 2024)](https://doi.org/10.1016/j.jpowsour.2024.234185)
     - [Degradation mode analysis for lifetime prediction (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-57968-3)
-"""
+
+---
+
+- **Impedance Spectroscopy Degradation Patterns Dataset**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (EIS-based degradation analysis)
+  - 🔋 *Battery Format*: Mixed
+  - 📄 *Summary*: Dataset enables machine learning-based analysis of degradation mechanisms in lithium-ion batteries using electrochemical impedance spectroscopy (EIS). Supports identification of internal aging signatures and failure modes.
+  - 📅 *Year*: 2020
+  - 🔗 [Download Dataset](https://zenodo.org/record/3633835)
+  - 📚 *Related Article*:  
+    - [Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning (Nature Communications, 2020)](https://www.nature.com/articles/s41467-020-15235-7)
+    """
