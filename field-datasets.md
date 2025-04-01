@@ -14,7 +14,7 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
     - *Nature Energy, DOI 10.1038/s41560-024-01620-9*
     - 
-- **M5BAT Large-Scale Battery Storage System Dataset**
+- **RWTH M5BAT Large-Scale Battery Storage System Dataset (unlabeled)**
   - 📍 *Chemistry*: Lead-acid, LMO, LFP, LTO
   - 🧪 *Test Type*: Field (Grid-scale hybrid stationary storage system)
   - 🔋 *Battery Format*: 10 battery units (Pb, LMO, LFP, LTO); 6.19 MW / 7.78 MWh system
