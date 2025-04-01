@@ -35,7 +35,7 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
 
 ---
 
-- **Off-Grid Solar Field Dataset (Lead-Acid)**
+- **Off-Grid Solar Field Dataset (unlabeled)**
   - 📍 *Chemistry*: Lead-Acid
   - 🧪 *Test Type*: Field
   - 🔋 *Battery Format*: Solar off-grid systems
