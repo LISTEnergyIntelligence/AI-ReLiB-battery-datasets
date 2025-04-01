@@ -215,4 +215,45 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/10963339)
   - 📚 *Related Article*:  
     - [PINN for Li-ion degradation modeling (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-48779-z)
-"""
+---
+- **Real-Time Health Prediction Dataset (Deep Transfer Learning)**
+  - 📍 *Chemistry*: LFP/Graphite
+  - 🧪 *Test Type*: Lab (Controlled charging, varied discharging)
+  - 🔋 *Battery Format*: Cylindrical cells (77 units)
+  - 📄 *Summary*: Dataset includes 77 LFP/graphite cells tested under identical charging protocols but varying discharge protocols to support real-time SoH prediction using deep transfer learning. Enables model personalization for lithium-ion battery health diagnostics.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://data.mendeley.com/datasets/nsc7hnsg4s/2)
+  - 📚 *Related Article*:  
+    - [Real-time health prediction using deep transfer learning (Energy Environ. Sci., 2022)](https://doi.org/10.1039/D2EE01676A)
+---
+
+- **Transformer-Based Multivariate Prognosis Dataset**
+  - 📍 *Chemistry*: LFP + 6 cathode chemistries
+  - 🧪 *Test Type*: Lab (Processed multivariate aging data)
+  - 🔋 *Battery Format*: Various (processed files, likely cylindrical and pouch)
+  - 📄 *Summary*: Dataset supports transformer-based prediction of advanced battery SoH and performance using multivariate time series from fast charging LFP and other chemistries. Provided as structured data for model training and validation.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://www.materialsdatafacility.org/detail/spacetimeformer_battery_v1.2)
+  - 📚 *Related Article*:  
+    - [arXiv Preprint: Prognosis of Multivariate Battery State via Transformers (2023)](https://doi.org/10.48550/arXiv.2309.10014)
+---
+
+- **Battery Aging Modes Across NMC Dataset**
+  - 📍 *Chemistry*: NMC/Graphite
+  - 🧪 *Test Type*: Lab (Cycle aging + aging mode classification)
+  - 🔋 *Battery Format*: Single-layer pouch cells (44 units)
+  - 📄 *Summary*: Dataset includes cycle-by-cycle capacity, Coulombic efficiency, and end-of-charge/discharge voltage data for 44 NMC/Gr pouch cells. Supports machine learning classification of aging modes across different NMC compositions and cell designs. Includes analysis code.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://zenodo.org/records/7250553)
+  - 📚 *Related Article*:  
+    - [Battery aging mode identification using ML (Joule, 2022)](https://doi.org/10.1016/j.joule.2022.10.016)
+---
+  - **ISU-ILCC Battery Aging Dataset**
+  - 📍 *Chemistry*: Lithium-ion Polymer
+  - 🧪 *Test Type*: Lab (Cycle aging across multiple stress factors)
+  - 🔋 *Battery Format*: Pouch cells (251 tested, 238 included in this release)
+  - 📄 *Summary*: Large-scale dataset of 251 Li-ion polymer cells tested under 63 unique charge/discharge conditions. Investigates the effects of charge rate, discharge rate, and depth of discharge on battery aging. Current release includes data from 238 cells.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://iastate.figshare.com/articles/dataset/_b_ISU-ILCC_Battery_Aging_Dataset_b_/22582234)
+  - 📚 *Related Article*:  
+    - [Predicting battery lifetime from early aging data (Cell Reports Physical Science, 2024)](https://doi.org/10.1016/j.xcrp.2024.101891)
