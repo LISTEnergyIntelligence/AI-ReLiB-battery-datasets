@@ -13,7 +13,18 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 📚 *Related Articles*:
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
     - *Nature Energy, DOI 10.1038/s41560-024-01620-9* 
-    
+
+- **LFP Battery Systems Field Dataset**
+  - 📍 *Chemistry*: LFP
+  - 🧪 *Test Type*: Field (Returned units)
+  - 🔋 *Battery Format*: 24V Systems, 8 prismatic cells in series
+  - 📄 *Summary*: 28 LFP battery systems with nominal 160Ah capacity; used in RVs, solar storage, etc. Data spans 1 month to 5 years per system, totaling 133 million rows. Includes cell voltages, temperatures (shared), load current, and active balancing behavior. All units were returned due to perceived faults, introducing bias.
+  - 📅 *Year*: Not specified (Field period ~5 years)
+  - 🔗 [Download Dataset](https://zenodo.org/record/7073380)
+  - 📚 *Related Article*:  
+    - *Gaussian Process-based Online Health Monitoring and Fault Analysis of Lithium-Ion Battery Systems from Field Data*  
+      *(Cell Reports Physical Science)*
+      
 - **EVBattery Dataset (labeled)**
   - 📍 *Chemistry*: NMC (Mixed)
   - 🧪 *Test Type*: Field (Real-world EV usage)
