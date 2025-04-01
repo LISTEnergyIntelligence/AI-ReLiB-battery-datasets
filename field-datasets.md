@@ -35,13 +35,16 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
 
 ---
 
-- **TU Munich Drive Cycle**
-  - 📍 *Chemistry*: NMC
-  - 🧪 *Test Type*: Emulated Field (Lab test under real drive profiles)
-  - 🔋 *Battery Format*: Pouch Cell
-  - 📄 *Summary*: 277 km & 163 km trips with real driving profiles, rest and charge cycles
-  - 📅 *Year*: 2020
-  - 🔗 [Link to Dataset](https://ieee-dataport.org/)
+- **Off-Grid Solar Field Dataset (Lead-Acid)**
+  - 📍 *Chemistry*: Lead-Acid
+  - 🧪 *Test Type*: Field
+  - 🔋 *Battery Format*: Solar off-grid systems
+  - 📄 *Summary*: Field data from 1,027 lead-acid batteries powering lighting, phone charging, and small appliances in sub-Saharan Africa. Useful for studying SoH, runtime, and predicting end-of-life.
+  - 📅 *Year*: Published 2021
+  - 🔗 [Download Dataset](https://ora.ox.ac.uk/objects/uuid:e41d3d4c-f74e-4d76-81fd-0caa77ec6cec)
+  - 📚 *Related Article*:  
+    - [Predicting battery end of life from solar off-grid system field data using machine learning (Joule)](https://www.cell.com/joule/fulltext/S2542-4351(21)00532-8)
+"""
 
 ---
 
