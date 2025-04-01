@@ -13,7 +13,7 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 📚 *Related Articles*:
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
     - *Nature Energy, DOI 10.1038/s41560-024-01620-9*
-    - 
+---
 - **RWTH M5BAT Large-Scale Battery Storage System Dataset (unlabeled)**
   - 📍 *Chemistry*: Lead-acid, LMO, LFP, LTO
   - 🧪 *Test Type*: Field (Grid-scale hybrid stationary storage system)
@@ -25,6 +25,18 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
     - *M5BAT Large-Scale Battery Storage System Dataset: Evaluation Operation Report 04/2023*
     - [M5BAT Research Portal](https://m5bat.isea.rwth-aachen.de/Projekt/Forschungsergebnisse/)
 
+---
+
+- **Retired Lithium-Ion Batteries Dataset**
+  - 📍 *Chemistry*: Lithium-ion (mixed, second-life modules)
+  - 🧪 *Test Type*: Field data (retired batteries with real-world charging segments)
+  - 🔋 *Battery Format*: Mixed (EV-grade retired modules)
+  - 📄 *Summary*: Dataset includes massive real-world charging segments used for estimating capacity in retired lithium-ion batteries. Enables state-of-health inference without full discharge testing. Useful for second-life applications and battery recycling logistics.
+  - 📅 *Year*: 2025
+  - 🔗 [Download Dataset](https://zenodo.org/records/14562266)
+  - 📚 *Related Article*:  
+    - [Capacity estimation using random charging segments (Cell Reports Physical Science, 2025)](https://doi.org/10.1016/j.xcrp.2025.102444)
+---
 - **Multi-Modal EV SOH Dataset (Nature Communications, 2025)**
   - 📍 *Chemistry*: NCM and LFP
   - 🧪 *Test Type*: Field (Real-world EV fleet)
@@ -35,7 +47,7 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 💾 [Code on GitHub](https://github.com/HoraceLiu1010/Multi-modal-SOH-estimation-framework)
   - 📚 *Related Article*:  
     - [Multi-modal framework for battery state of health evaluation using open-source electric vehicle data (Nature Communications)](https://doi.org/10.1038/s41467-025-56485-7)
-
+---
 - **LFP Battery Systems Field Dataset**
   - 📍 *Chemistry*: LFP
   - 🧪 *Test Type*: Field (Returned units)
@@ -46,7 +58,7 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 📚 *Related Article*:  
     - *Gaussian Process-based Online Health Monitoring and Fault Analysis of Lithium-Ion Battery Systems from Field Data*  
       *(Cell Reports Physical Science, DO 10.1016/j.xcrp.2024.102258)*
-      
+---      
 - **EVBattery Dataset (labeled)**
   - 📍 *Chemistry*: NMC (Mixed)
   - 🧪 *Test Type*: Field (Real-world EV usage)
