@@ -333,4 +333,26 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://data.mendeley.com/datasets/mn9fb7xdx6/3)
   - 📚 *Related Article*:  
     - [Rapid SoH estimation using EIS + ML (Data in Brief, 2023)](https://doi.org/10.1016/j.dib.2023.109157)
+---
+
+- **Cycle Aging Dataset of VW ID.3 Automotive Cells**
+  - 📍 *Chemistry*: NMC/Graphite
+  - 🧪 *Test Type*: Lab (Realistic and accelerated automotive load profiles)
+  - 🔋 *Battery Format*: Pouch cells (automotive-grade, VW ID.3)
+  - 📄 *Summary*: This dataset contains 3+ years of cycle aging data from three NMC|Gr pouch cells used in the Volkswagen ID.3. The cells were tested under three distinct usage patterns mimicking realistic EV usage and accelerated stress profiles. All measurements are raw `.txt` files exported from the battery testing system, suitable for degradation modeling and EV battery life analysis.
+  - 📅 *Year*: 2025
+  - 🔗 [Download Dataset](https://mediatum.ub.tum.de/1748915)
+  - 📚 *Related Article*:  
+    - [Understanding lithium-ion battery degradation in vehicle applications (Energy Storage, 2025)](https://doi.org/10.1016/j.est.2025.115357)
+---
+
+- **WMG Calendar Aging Dataset – LGM50 Commercial Cells**
+  - 📍 *Chemistry*: Lithium-ion (LGM50)
+  - 🧪 *Test Type*: Lab (Calendar aging at 3 temperatures and 13 SOC levels)
+  - 🔋 *Battery Format*: Cylindrical cells (39 storage conditions)
+  - 📄 *Summary*: Dataset contains 2 years of calendar aging data on LGM50 cylindrical cells stored under 39 unique temperature-SOC combinations (0°C, 25°C, 45°C × 13 SOCs). MATLAB `.mat` files include cell performance from periodic Reference Performance Tests (RPTs) throughout the aging process.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://zenodo.org/records/14577286)
+  - 📚 *Related Article*:  
+    - [Lithium-ion battery degradation modeling using UDEs (Applied Energy, 2024)](https://doi.org/10.1016/j.apenergy.2024.125221)
 """
