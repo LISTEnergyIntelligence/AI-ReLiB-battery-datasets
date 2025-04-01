@@ -1,6 +1,6 @@
-# 🚗 Real-World EV Field Datasets
+# 🚗 Real-World EV and Grid Storage Field Datasets
 
-This section lists real-world battery usage datasets (mainly for EVs or emulated EV conditions):
+This section lists real-world battery usage datasets (mainly for EVs or grid storage conditions):
 
 ---
 - **RWTH Multi-Year Home Storage Dataset (unlabeled)**
