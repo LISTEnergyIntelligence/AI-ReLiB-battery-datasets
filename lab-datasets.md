@@ -52,6 +52,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
 
+- **Second-Life Li-ion Battery Grid Storage Dataset**
+  - 📍 *Chemistry*: NMC
+  - 🧪 *Test Type*: Lab (Grid storage simulation for second-life cells)
+  - 🔋 *Battery Format*: Pouch cells (6 second-life cells)
+  - 📄 *Summary*: Dataset of second-life NMC cells tested using residential and commercial synthetic duty cycles. Experiments conducted at Stanford Energy Control Lab to simulate realistic grid storage applications. Data available in .zip format.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://osf.io/8jnr5/)
+  - 📚 *Related Article*:  
+    - [Second-life lithium-ion battery aging dataset based on grid storage cycling (Data in Brief, 2024)](https://doi.org/10.1016/j.dib.2024.111046)
+
 - **Battery Failure Databank**
   - 📍 *Chemistry*: Various (Li-ion: 18650, 21700, D-cell formats)
   - 🧪 *Test Type*: Abuse Testing (Thermal runaway, nail penetration, internal short circuit)
