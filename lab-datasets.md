@@ -257,3 +257,80 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://iastate.figshare.com/articles/dataset/_b_ISU-ILCC_Battery_Aging_Dataset_b_/22582234)
   - 📚 *Related Article*:  
     - [Predicting battery lifetime from early aging data (Cell Reports Physical Science, 2024)](https://doi.org/10.1016/j.xcrp.2024.101891)
+---
+
+- **Comprehensive NMC/C+SiO Battery Aging Dataset**
+  - 📍 *Chemistry*: NMC/C+SiO
+  - 🧪 *Test Type*: Lab (Long-term cycling with impedance & capacity tracking)
+  - 🔋 *Battery Format*: Commercial cylindrical cells (228 units)
+  - 📄 *Summary*: Over 3 billion data points collected from 228 commercial NMC/C+SiO Li-ion cells cycled under diverse operating conditions for nearly 600 days. Includes capacity and impedance fade data, ideal for degradation modeling and lifetime forecasting.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://radar.kit.edu/radar/en/dataset/kww7jv8ajuvchcah.Comprehensive%2Bbattery%2Baging%2Bdataset%253A%2Bcapacity%2Bimpedance%2Bfade%2Bmeasurements%2Blithium-ion%2BNMC%252FC-SiO%2Bcel#)
+  - 📚 *Related Articles*:
+    - [Nature Scientific Data (2024)](https://doi.org/10.1038/s41597-024-03831-x)
+    - [Bidirectional Charging Systems and Battery Lifetime Modeling (KIT)](https://doi.org/10.5445/IR/1000174456)
+---
+- **Smart Battery Internal Sensor Dataset**
+  - 📍 *Chemistry*: Graphite/NMC (Lithium-ion)
+  - 🧪 *Test Type*: Lab (Operando diagnostics with internal sensors)
+  - 🔋 *Battery Format*: Pouch cells (multi-layer and single-layer)
+  - 📄 *Summary*: Dataset investigates how internal sensors (optical fibers and reference electrodes) impact local lithiation kinetics in lithium-ion batteries. Includes operando XRD data, electrochemical cycling under varied C-rates (C/5, 2C, 4C), and thermal response from embedded sensors. Findings highlight lithiation delays near sensors but stable global performance.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://www.nature.com/articles/s41467-024-54656-6#Sec14)
+  - 📚 *Related Article*:  
+    - [Revealing how internal sensors in a smart battery impact the local graphite lithiation mechanism (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-54656-6)
+---
+- **Generative Learning-Assisted SoH Estimation Dataset**
+  - 📍 *Chemistry*: Lithium-ion (exact chemistry not specified)
+  - 🧪 *Test Type*: Lab and synthetic (recycling scenario modeling with random retirement)
+  - 🔋 *Battery Format*: Mixed (second-life/recycled cells)
+  - 📄 *Summary*: Dataset supports state-of-health estimation in batteries under random and variable retirement conditions. Combines lab-tested degradation with generative learning models to aid sustainability and battery reuse. Dataset used for validating SoH estimators for recycling applications.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://www.nature.com/articles/s41467-024-54454-0#Sec19)
+  - 📚 *Related Article*:  
+    - [Generative learning for SoH estimation in recycling scenarios (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-54454-0)
+---
+
+- **Reuse and Recycling Pathway Dataset (Retired Batteries)**
+  - 📍 *Chemistry*: Lithium-ion (retired batteries, mixed chemistries likely)
+  - 🧪 *Test Type*: Simulation + empirical data (economic and environmental modeling)
+  - 🔋 *Battery Format*: Mixed (EV and stationary retired battery modules)
+  - 📄 *Summary*: Dataset and modeling code for evaluating reuse and recycling pathways of retired lithium-ion batteries. Considers economic profitability, carbon footprint, and circular economy indicators for second-life and recycling strategies. Developed using real-world EoL data and multi-objective analysis.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://github.com/RuifeiMa/Reuse-and-recycling-pathway-of-retired-batteries)
+  - 📚 *Related Article*:  
+    - [Pathway decisions for reuse and recycling of retired batteries (Nature Communications, 2024)](https://doi.org/10.1038/s41467-024-52030-0)
+---
+
+- **Dynamic Cycling Enhancement Dataset**
+  - 📍 *Chemistry*: Lithium-ion (specific chemistry not specified)
+  - 🧪 *Test Type*: Lab (EV-like dynamic vs constant-current discharge)
+  - 🔋 *Battery Format*: Cylindrical (assumed, based on Stanford prior work)
+  - 📄 *Summary*: Dataset provides a systematic comparison between dynamic EV-like discharge and traditional constant-current discharge. Results show up to 38% longer battery life under dynamic profiles. Aging differences attributed to low-frequency current effects, validated by explainable ML techniques.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://purl.stanford.edu/td676xr4322)
+  - 📚 *Related Article*:  
+    - [Dynamic cycling enhances battery lifetime (Nature Energy, 2024)](https://doi.org/10.1038/s41560-024-01675-8)
+---
+
+- **Stanford Long Term Calendar Aging Dataset**
+  - 📍 *Chemistry*: Mixed (LFP, NCA, NMC, etc.)
+  - 🧪 *Test Type*: Lab (Calendar aging at various temperatures and SOCs)
+  - 🔋 *Battery Format*: Cylindrical + pouch (8 commercial cell types)
+  - 📄 *Summary*: Calendar aging dataset with 8 types of lithium-ion cells stored at 2 SOC levels (50%, 100%) and 4 temperatures (24°C, 45°C, 60°C, 85°C). Contains full raw data for voltage and current over diagnostic cycles. Designed to study long-term storage degradation trends.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://osf.io/ju325/)
+  - 📚 *Related Article*:  
+    - [A decade of insights: Delving into calendar aging trends and implications (Joule, 2024)](https://doi.org/10.1016/j.joule.2024.11.013)
+---
+
+- **WMG-DIB Battery EIS and SOH Dataset**
+  - 📍 *Chemistry*: Lithium-ion (cylindrical cells)
+  - 🧪 *Test Type*: Lab (RPT, EIS at various SOCs and temperatures)
+  - 🔋 *Battery Format*: Cylindrical cells (25 units)
+  - 📄 *Summary*: Includes RPTs and impedance spectra for 25 Li-ion cells aged under controlled cycling at 25°C to defined SOH levels (100% to 80%). EIS measurements were taken across a range of SOCs and temperatures, enabling machine learning-based SoH prediction development.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://data.mendeley.com/datasets/mn9fb7xdx6/3)
+  - 📚 *Related Article*:  
+    - [Rapid SoH estimation using EIS + ML (Data in Brief, 2023)](https://doi.org/10.1016/j.dib.2023.109157)
+"""
