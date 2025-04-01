@@ -51,6 +51,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+- **ARCANA Framework Dataset (Chemistry-Agnostic Lifetime Prediction)**
+  - 📍 *Chemistry*: Lithium-ion and Sodium-ion
+  - 🧪 *Test Type*: Lab (Multi-chemistry model training and fine-tuning)
+  - 🔋 *Battery Format*: Not specified
+  - 📄 *Summary*: Includes pre-trained weights from ARCANA framework trained across lithium-ion and sodium-ion battery chemistries. Enables explainable battery lifetime prediction with attention-based models, supporting cross-chemistry generalization and interpretability.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://zenodo.org/records/10293072)
+  - 📚 *Related Article*:  
+    - [Attention towards chemistry agnostic and explainable battery lifetime prediction (Nature Computational Materials, 2024)](https://doi.org/10.1038/s41524-024-01286-7)
 
 - **Experimental Degradation Dataset (Commercial Li-ion Cells)**
   - 📍 *Chemistry*: NCA cathode, Si-doped graphite anode
