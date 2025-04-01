@@ -91,3 +91,14 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 📚 *Related Article*:  
     - [Prognostics of battery capacity based on charging data and data-driven methods for on-road vehicles (Applied Energy)](https://doi.org/10.1016/j.apenergy.2023.120954)
 
+---
+
+- **BMS Fault Diagnosis Dataset (Model-Constrained Deep Learning)**
+  - 📍 *Chemistry*: Lithium-ion (EV-grade, mixed manufacturers)
+  - 🧪 *Test Type*: Field (Vehicle onboard BMS data, cloud-aggregated)
+  - 🔋 *Battery Format*: EV modules from DTI, QAS, GIS (anonymized)
+  - 📄 *Summary*: Dataset includes 18.2 million entries from 515 EVs collected via cloud-based BMS systems. Contains both normal operation data and four rare critical fault types: thermal runaway, electrolyte leakage, internal short circuit, and excessive aging. Used for deep learning-based online fault diagnosis under stochastic real-world conditions.
+  - 📅 *Year*: 2025
+  - 🔗 [Download Dataset](https://zenodo.org/records/10656500)
+  - 📚 *Related Article*:  
+    - [Model-constrained DL for fault diagnosis (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-56832-8)
