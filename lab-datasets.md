@@ -51,6 +51,17 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+- **Li-ion Battery Aging Dataset (EV Real-Driving Profiles)**
+  - 📍 *Chemistry*: NMC (INR21700-M50T)
+  - 🧪 *Test Type*: Lab (Realistic EV simulation)
+  - 🔋 *Battery Format*: 21700 Cylindrical Cells
+  - 📄 *Summary*: 28-month dataset collected at Stanford Energy Control Lab using UDDS drive cycle discharge and CC-CV charging. Includes periodic HPPC and EIS diagnostics to assess battery aging under EV-realistic conditions.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78)
+  - 📚 *Related Articles*:
+    - [Dataset publication (Data in Brief, 2022)](https://doi.org/10.1016/j.dib.2022.107995)
+    - [Domain knowledge-guided ML for SoH estimation (Nature Computational Science, 2024)](https://doi.org/10.1038/s44172-024-00304-2)
+
 - **Full Factorial DOE Dataset for Parallel-Connected Li-ion Cells**
   - 📍 *Chemistry*: NCA and NMC
   - 🧪 *Test Type*: Lab (Module-level experimental design)
