@@ -4,7 +4,7 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
 
 ---
 
-- **EVBattery Dataset**
+- **EVBattery Dataset (labeled)**
   - 📍 *Chemistry*: NMC (Mixed)
   - 🧪 *Test Type*: Field (Real-world EV usage)
   - 🔋 *Battery Format*: EV Pack
