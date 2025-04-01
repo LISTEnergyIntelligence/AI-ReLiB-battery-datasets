@@ -62,18 +62,19 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 💾 [Code Repository](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation)
   - 📚 *Related Article*:
     - [Data-driven prediction of battery cycle life before capacity degradation (Nature Energy, 2019)](https://www.nature.com/articles/s41560-019-0356-8)
-"""
 
 ---
+- **Voltage Relaxation Capacity Estimation Dataset**
+  - 📍 *Chemistry*: NCA, NCM, NCM+NCA
+  - 🧪 *Test Type*: Lab (Cycling + voltage relaxation + impedance)
+  - 🔋 *Battery Format*: 18650 Cylindrical Cells (3 commercial models)
+  - 📄 *Summary*: Experimental cycling and impedance data from three commercial 18650 Li-ion cells. Dataset emphasizes voltage relaxation measurements as a data-driven method for capacity estimation.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://zenodo.org/records/6405084)
+  - 📚 *Related Article*:  
+    - [Data-driven capacity estimation from voltage relaxation (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-29837-w)
 
-- **RWTH Dataset**
-  - 🧪 *Chemistry*: NMC
-  - 🔋 *Cell Type*: Cylindrical
-  - ⚡ *Profile*: CC–CV charge, CC discharge
-  - 📈 *Trend*: Super-linear
-  - 📅 *Year*: 2021
-  - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
-
+---
 - **Battery Pack Degradation Dataset (Thermal Gradient Study)**
   - 📍 *Chemistry*: Lithium-ion (exact chemistry unspecified)
   - 🧪 *Test Type*: Lab (Pack-level degradation under temperature gradients)
