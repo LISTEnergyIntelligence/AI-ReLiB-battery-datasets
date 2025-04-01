@@ -51,6 +51,17 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+
+- **Battery Pack Degradation Dataset (Thermal Gradient Study)**
+  - 📍 *Chemistry*: Lithium-ion (exact chemistry unspecified)
+  - 🧪 *Test Type*: Lab (Pack-level degradation under temperature gradients)
+  - 🔋 *Battery Format*: Parallel-connected packs
+  - 📄 *Summary*: Includes raw and processed data with analysis code for studying the degradation of Li-ion battery packs under thermal gradients. Enables investigation of cell-to-cell variation and the impact of heat distribution across modules.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://zenodo.org/records/10207731)
+  - 📚 *Related Article*:  
+    - [Degradation in parallel-connected lithium-ion battery packs under thermal gradients (Nature Computational Science, 2023)](https://doi.org/10.1038/s44172-023-00153-5)
+
 - **ARCANA Framework Dataset (Chemistry-Agnostic Lifetime Prediction)**
   - 📍 *Chemistry*: Lithium-ion and Sodium-ion
   - 🧪 *Test Type*: Lab (Multi-chemistry model training and fine-tuning)
