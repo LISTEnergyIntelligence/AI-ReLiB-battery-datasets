@@ -51,6 +51,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+- **Galvanostatic Discharge Dataset (C-rates & Temperature Tests)**
+  - 📍 *Chemistry*: Lithium-ion (specific chemistry not specified)
+  - 🧪 *Test Type*: Lab (Galvanostatic discharge under controlled conditions)
+  - 🔋 *Battery Format*: Not specified (3 cells tested)
+  - 📄 *Summary*: Dataset includes voltage, current, and skin temperature data from three lithium-ion batteries subjected to various C-rates and temperatures in a thermal chamber. Measurements taken using Arbin system under constant current discharge protocols.
+  - 📅 *Year*: 2021
+  - 🔗 [Download Dataset](https://data.mendeley.com/datasets/kxsbr4x3j2/2)
+  - 📚 *Related Article*:  
+    - [Experimental discharge dataset (Data in Brief, 2021)](https://doi.org/10.1016/j.dib.2021.106894)
 - **Li-ion Battery Aging Dataset (EV Real-Driving Profiles)**
   - 📍 *Chemistry*: NMC (INR21700-M50T)
   - 🧪 *Test Type*: Lab (Realistic EV simulation)
