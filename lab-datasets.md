@@ -51,3 +51,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+
+- **Battery Failure Databank**
+  - 📍 *Chemistry*: Various (Li-ion: 18650, 21700, D-cell formats)
+  - 🧪 *Test Type*: Abuse Testing (Thermal runaway, nail penetration, internal short circuit)
+  - 🔋 *Battery Format*: Cylindrical and D-cell
+  - 📄 *Summary*: Open-access dataset from hundreds of abuse tests conducted at ESRF, DLS, and NASA JSC. Includes calorimetry (heat breakdown by cell body vs ejected material), mass loss, and radiographic video data. Extensive data on thermal runaway dynamics for a wide range of commercial lithium-ion cells with varied abuse triggers. Organized by cell type, method, and metadata-rich spreadsheet.
+  - 📅 *Year*: Updated February 2024
+  - 🔗 [Download Dataset](https://www.nasa.gov/battery-failure-databank) *(exact link placeholder)*
+  - 📚 *Related Articles*:  
+    - *The Battery Failure Databank: Insights from an Open-Access Database of Thermal Runaway Behaviors of Li-Ion Cells*, Journal of Power Sources (2024)
+    - *Decoupling of Heat Generated from Ejected and Non-Ejected Contents of 18650 Cells*, Journal of Power Sources (2019)
+    - *Internal Short Circuit Characterization and Radiography*, Energy & Environmental Science (2017), Advanced Science (2017), JES (2017)
+"""
