@@ -4,15 +4,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
 
 ---
 
-- **NASA PCoE Dataset**
-  - 🧪 *Chemistry*: NCA
-  - 🔋 *Cell Type*: Cylindrical
-  - ⚡ *Profile*: CC–CV charge, CC discharge
-  - 📈 *Trend*: Linear capacity fade
+- **NASA Battery Data Set**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (Controlled temperature cycling and impedance monitoring)
+  - 🔋 *Battery Format*: Not specified
+  - 📄 *Summary*: Dataset includes Li-ion battery cycling data across various temperatures and impedance as a degradation metric. Supports studies in prognostics and health management using machine learning and physics-informed models.
   - 📅 *Year*: 2008
-  - 🔗 [Link](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
-
----
+  - 🔗 [Download Dataset](https://phmdatasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip)
+  - 📚 *Related Article*:  
+    - [Bayesian physics-informed neural network for battery prognosis (Scientific Reports, 2023)](https://doi.org/10.1038/s41598-023-33018-0)
+"""
 
 - **CALCE Dataset**
   - 🧪 *Chemistry*: LCO
@@ -24,23 +25,30 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
 
 ---
 
-- **Oxford Dataset 1**
-  - 🧪 *Chemistry*: NCA
-  - 🔋 *Cell Type*: Pouch
-  - ⚡ *Profile*: CC–CV charge with dynamic discharges (urban drive)
-  - 📈 *Trend*: Linear
-  - 📅 *Year*: 2017
-  - 🔗 [Link](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac)
+- **Oxford Battery Degradation Dataset 1**
+  - 📍 *Chemistry*: Lithium-ion (Kokam SLPB533459H4, 740mAh pouch cells)
+  - 🧪 *Test Type*: Lab (Long-term cycling under thermal conditions)
+  - 🔋 *Battery Format*: Pouch cells (8 tested)
+  - 📄 *Summary*: Dataset includes long-term aging tests of 8 pouch cells cycled in a thermal chamber at 40°C. Testing used CC-CV charging and Urban Artemis-based drive cycle discharging. Characterization cycles (1C and pseudo-OCV) were recorded every 100 cycles. Provided in `.mat` format.
+  - 📅 *Year*: 2015–2017
+  - 🔗 [Download Dataset](https://ora.ox.ac.uk/objects/uuid:03ba4b01-cfed-46d3-9b1a-7d4a7bdf6fac)
+  - 📚 *Related Documentation*:
+    - *PhD thesis*: Christoph R. Birkl, “Diagnosis and Prognosis of Degradation in Lithium-Ion Batteries”, University of Oxford, 2017
+    - [Google Scholar - Howey Group](https://scholar.google.co.uk/citations?hl=en&user=AZdBXIkAAAAJ&view_op=list_works&sortby=pubdate)
+"""
 
 ---
-
-- **Stanford (Severson) Dataset**
-  - 🧪 *Chemistry*: LFP
-  - 🔋 *Cell Type*: Cylindrical
-  - ⚡ *Profile*: Multi-step fast charge, CC discharge
-  - 📈 *Trend*: Super-linear
+- **Stanford Severson Battery Cycle Life Dataset (LFP Fast Charging)**
+  - 📍 *Chemistry*: LFP/Graphite (APR18650M1A, A123 Systems)
+  - 🧪 *Test Type*: Lab (Fast charge aging to failure)
+  - 🔋 *Battery Format*: Cylindrical 18650 cells (124 total)
+  - 📄 *Summary*: Dataset includes 124 LFP cells cycled to failure under different fast-charging protocols. Features 3 batches, MATLAB structs + raw CSV data, temperature + resistance data, and cycle life performance. Used for early-stage prediction of cycle life before degradation.
   - 📅 *Year*: 2019
-  - 🔗 [Link](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+  - 🔗 [Download Dataset](https://data.matr.io/1/projects/5c48dd2bc625d700019f3204)
+  - 💾 [Code Repository](https://github.com/rdbraatz/data-driven-prediction-of-battery-cycle-life-before-capacity-degradation)
+  - 📚 *Related Article*:
+    - [Data-driven prediction of battery cycle life before capacity degradation (Nature Energy, 2019)](https://www.nature.com/articles/s41560-019-0356-8)
+"""
 
 ---
 
