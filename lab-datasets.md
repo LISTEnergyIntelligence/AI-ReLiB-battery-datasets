@@ -93,7 +93,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📅 *Year*: 2024
   - 🔗 [Download Dataset](https://osf.io/2w4k3/)
   - 📚 *Related Article*:  
-    - [Lithium inventory tracking for nondestructive monitoring (Nature Energy, 2024)](https://doi.org/10.1038/s41560-024-01476-z)
+    - [Lithium inventory tracking as a non-destructive battery evaluation and monitoring method (Nature Energy, 2024)](https://doi.org/10.1038/s41560-024-01476-z)
 ---
 
 - **Accelerated Battery Life Testing Dataset**
@@ -128,7 +128,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📅 *Year*: 2020
   - 🔗 [Download Dataset](https://zenodo.org/records/3633835)
   - 📚 *Related Article*:  
-    - [EIS-based ML degradation identification (Nature Communications, 2020)](https://doi.org/10.1038/s41467-020-15235-7)
+    - [Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning, 2020)](https://doi.org/10.1038/s41467-020-15235-7)
 """
 ---
 - **Voltage Relaxation Capacity Estimation Dataset**
