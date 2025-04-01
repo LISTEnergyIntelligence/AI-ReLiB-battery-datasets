@@ -3,7 +3,7 @@
 This section lists real-world battery usage datasets (mainly for EVs or emulated EV conditions):
 
 ---
-- **RWTH Multi-Year Home Storage Dataset**
+- **RWTH Multi-Year Home Storage Dataset (unlabeled)**
   - 📍 *Chemistry*: Not specified (Residential ESS)
   - 🧪 *Test Type*: Field
   - 🔋 *Battery Format*: Home storage systems
