@@ -84,7 +84,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/10207731)
   - 📚 *Related Article*:  
     - [Degradation in parallel-connected lithium-ion battery packs under thermal gradients (Nature Computational Science, 2023)](https://doi.org/10.1038/s44172-023-00153-5)
-
+---
 - **ARCANA Framework Dataset (Chemistry-Agnostic Lifetime Prediction)**
   - 📍 *Chemistry*: Lithium-ion and Sodium-ion
   - 🧪 *Test Type*: Lab (Multi-chemistry model training and fine-tuning)
@@ -94,6 +94,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/10293072)
   - 📚 *Related Article*:  
     - [Attention towards chemistry agnostic and explainable battery lifetime prediction (Nature Computational Materials, 2024)](https://doi.org/10.1038/s41524-024-01286-7)
+---
 
 - **Experimental Degradation Dataset (Commercial Li-ion Cells)**
   - 📍 *Chemistry*: NCA cathode, Si-doped graphite anode
@@ -104,6 +105,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://mediatum.ub.tum.de/1713382)
   - 📚 *Related Article*:  
     - [Experimental degradation study of a commercial lithium-ion battery (Journal of Power Sources, 2022)](https://doi.org/10.1016/j.jpowsour.2022.232498)
+---
 
 - **Continual Learning Battery Aging Dataset**
   - 📍 *Chemistry*: Various (Pouch and prismatic Li-ion cells)
@@ -114,6 +116,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://data.mendeley.com/datasets/n3b54nsw8m/9)
   - 📚 *Related Article*:  
     - [Continual learning for generalizing battery health estimation (Cell Reports Physical Science, 2023)](https://doi.org/10.1016/j.xcrp.2023.101743)
+---
 - **Galvanostatic Discharge Dataset (C-rates & Temperature Tests)**
   - 📍 *Chemistry*: Lithium-ion (specific chemistry not specified)
   - 🧪 *Test Type*: Lab (Galvanostatic discharge under controlled conditions)
@@ -123,6 +126,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://data.mendeley.com/datasets/kxsbr4x3j2/2)
   - 📚 *Related Article*:  
     - [Experimental discharge dataset (Data in Brief, 2021)](https://doi.org/10.1016/j.dib.2021.106894)
+---
 - **Li-ion Battery Aging Dataset (EV Real-Driving Profiles)**
   - 📍 *Chemistry*: NMC (INR21700-M50T)
   - 🧪 *Test Type*: Lab (Realistic EV simulation)
@@ -134,6 +138,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
     - [Dataset publication (Data in Brief, 2022)](https://doi.org/10.1016/j.dib.2022.107995)
     - [Domain knowledge-guided ML for SoH estimation (Nature Computational Science, 2024)](https://doi.org/10.1038/s44172-024-00304-2)
 
+---
 - **Full Factorial DOE Dataset for Parallel-Connected Li-ion Cells**
   - 📍 *Chemistry*: NCA and NMC
   - 🧪 *Test Type*: Lab (Module-level experimental design)
@@ -144,6 +149,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Article*:  
     - [Unveiling the performance impact of module level features on parallel-connected lithium-ion cells (EST, 2024)](https://doi.org/10.1016/j.est.2024.110783)
 
+---
 - **Lithium-Ion Battery Formation & Structured Aging Dataset**
   - 📍 *Chemistry*: Not specified (Li-ion cells, BEEP-compatible)
   - 🧪 *Test Type*: Lab (Formation and aging cycling)
@@ -154,6 +160,7 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Article*:  
     - [Data-driven analysis of battery formation reveals the role of electrode utilization in extending cycle life (Joule, 2024)](https://www.cell.com/joule/abstract/S2542-4351(24)00353-2)
 
+---
 - **Second-Life Li-ion Battery Grid Storage Dataset**
   - 📍 *Chemistry*: NMC
   - 🧪 *Test Type*: Lab (Grid storage simulation for second-life cells)
@@ -164,6 +171,18 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Article*:  
     - [Second-life lithium-ion battery aging dataset based on grid storage cycling (Data in Brief, 2024)](https://doi.org/10.1016/j.dib.2024.111046)
 
+---
+- **Impedance-Based Forecasting Dataset (Uneven Usage)**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (Stochastic multistage cycling + impedance)
+  - 🔋 *Battery Format*: Coin cells (88 commercial units)
+  - 📄 *Summary*: 88 lithium-ion coin cells cycled with multistage constant current charging/discharging and randomly varied current levels to simulate realistic uneven usage. Dataset includes impedance data for forecasting performance under such conditions.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://zenodo.org/records/6645536)
+  - 📚 *Related Article*:  
+    - [Impedance-based forecasting amid uneven usage (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-32422-w)
+
+---
 - **Battery Failure Databank**
   - 📍 *Chemistry*: Various (Li-ion: 18650, 21700, D-cell formats)
   - 🧪 *Test Type*: Abuse Testing (Thermal runaway, nail penetration, internal short circuit)
@@ -175,4 +194,4 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
     - *The Battery Failure Databank: Insights from an Open-Access Database of Thermal Runaway Behaviors of Li-Ion Cells*, Journal of Power Sources (2024)
     - *Decoupling of Heat Generated from Ejected and Non-Ejected Contents of 18650 Cells*, Journal of Power Sources (2019)
     - *Internal Short Circuit Characterization and Radiography*, Energy & Environmental Science (2017), Advanced Science (2017), JES (2017)
-"""
+
