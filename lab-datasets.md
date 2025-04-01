@@ -457,4 +457,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/record/3633835)
   - 📚 *Related Article*:  
     - [Identifying degradation patterns of lithium ion batteries from impedance spectroscopy using machine learning (Nature Communications, 2020)](https://www.nature.com/articles/s41467-020-15235-7)
-    """
+---
+
+- **Closed-Loop Optimization (CLO) of Fast Charging Dataset**
+  - 📍 *Chemistry*: LFP/Graphite (A123 APR18650M1A)
+  - 🧪 *Test Type*: Lab (Extreme fast charging protocol optimization)
+  - 🔋 *Battery Format*: Cylindrical (18650 cells)
+  - 📄 *Summary*: Dataset includes fast-charging cycling data for A123 LFP/Graphite cells under 224 six-step, 10-minute CC charging protocols. Cells are tested across five batches using Arbin LBT potentiostats. Includes CSV and MATLAB-formatted files, with internal resistance and partial temperature data. Designed for closed-loop optimization and early-life prediction of battery lifetime.
+  - 📅 *Year*: 2020
+  - 🔗 [Download Dataset](https://data.matr.io/1/projects/5d80e633f405260001c0b60a)
+  - 📚 *Related Article*:  
+    - [Closed-loop optimization of fast-charging protocols for batteries with machine learning (Nature, 2020)](https://doi.org/10.1038/s41586-020-1994-5)
+"""
