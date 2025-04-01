@@ -13,16 +13,17 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://phmdatasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip)
   - 📚 *Related Article*:  
     - [Bayesian physics-informed neural network for battery prognosis (Scientific Reports, 2023)](https://doi.org/10.1038/s41598-023-33018-0)
-"""
-
-- **CALCE Dataset**
-  - 🧪 *Chemistry*: LCO
-  - 🔋 *Cell Type*: Prismatic
-  - ⚡ *Profile*: CC–CV charge, CC discharge at various rates
-  - 📈 *Trend*: Sub-linear to super-linear
-  - 📅 *Year*: 2014
-  - 🔗 [Link](https://web.calce.umd.edu/batteries/data.htm)
-
+---
+- **CALCE Battery Aging Dataset (University of Maryland)**
+  - 📍 *Chemistry*: LCO / NMC / other commercial Li-ion chemistries
+  - 🧪 *Test Type*: Lab (Controlled cycle aging under various conditions)
+  - 🔋 *Battery Format*: Prismatic (main), others included
+  - 📄 *Summary*: Contains long-term cycle aging data for commercial lithium-ion cells. Tests were conducted under controlled charge/discharge cycles with variations in temperature, depth of discharge, and current rates. Frequently used for battery SoH and lifetime prediction research.
+  - 📅 *Year*: First released ~2014, updated over time
+  - 🔗 [Download Dataset](https://calce.umd.edu/battery-data)
+  - 📚 *Related Articles*:
+    - *B. Saha, K. Goebel, “Modeling Li-ion battery capacity depletion in a prognostic context”*, IEEE AUTOTESTCON (2009)
+    - *Saha, Goebel, Poll, “Prognostics Methods for Battery Health Monitoring Using a Bayesian Framework”*, IEEE Trans. on Instrumentation and Measurement (2007)
 ---
 
 - **Oxford Battery Degradation Dataset 1**
