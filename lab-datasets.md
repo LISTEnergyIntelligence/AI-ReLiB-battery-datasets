@@ -51,6 +51,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+- **Full Factorial DOE Dataset for Parallel-Connected Li-ion Cells**
+  - 📍 *Chemistry*: NCA and NMC
+  - 🧪 *Test Type*: Lab (Module-level experimental design)
+  - 🔋 *Battery Format*: Ladder-configured parallel strings
+  - 📄 *Summary*: Experimental data from a full factorial DOE on parallel-connected Li-ion modules, including 54 conditions spanning cell chemistry, interconnection resistance, temperature, and aging. Measurements include per-cell current and temperature to study variation effects on performance. Cell characterization data included.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://data.mendeley.com/datasets/zh58byr53c/1)
+  - 📚 *Related Article*:  
+    - [Unveiling the performance impact of module level features on parallel-connected lithium-ion cells (EST, 2024)](https://doi.org/10.1016/j.est.2024.110783)
 
 - **Lithium-Ion Battery Formation & Structured Aging Dataset**
   - 📍 *Chemistry*: Not specified (Li-ion cells, BEEP-compatible)
