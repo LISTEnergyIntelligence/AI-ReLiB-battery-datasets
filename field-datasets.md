@@ -12,7 +12,19 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 🔗 [Download Dataset](https://zenodo.org/records/12091223)
   - 📚 *Related Articles*:
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
-    - *Nature Energy, DOI 10.1038/s41560-024-01620-9* 
+    - *Nature Energy, DOI 10.1038/s41560-024-01620-9*
+
+- **Multi-Modal EV SOH Dataset (Nature Communications, 2025)**
+  - 📍 *Chemistry*: NCM and LFP
+  - 🧪 *Test Type*: Field (Real-world EV fleet)
+  - 🔋 *Battery Format*: Full EV packs, 96 cell modules
+  - 📄 *Summary*: Data collected over 3 years from 300 EVs operating under diverse and random usage conditions. Dataset includes full drive-cycle discharge data and charging data. Health indicators (HIs) include 2D voltage maps (96 cells), 1D charge capacity sequences, and 15 statistical parameters (e.g. mileage, current, temperature). Enables training of deep multimodal SOH estimation models.
+  - 📅 *Year*: 2025
+  - 🔗 [Download Dataset](http://ivstskl.changan.com.cn/?p=2697)
+  - 💾 [Code on GitHub](https://github.com/HoraceLiu1010/Multi-modal-SOH-estimation-framework)
+  - 📚 *Related Article*:  
+    - [Multi-modal framework for battery state of health evaluation using open-source electric vehicle data (Nature Communications)](https://doi.org/10.1038/s41467-025-56485-7)
+"""
 
 - **LFP Battery Systems Field Dataset**
   - 📍 *Chemistry*: LFP
