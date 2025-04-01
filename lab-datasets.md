@@ -51,6 +51,17 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📈 *Trend*: Super-linear
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
+
+- **Experimental Degradation Dataset (Commercial Li-ion Cells)**
+  - 📍 *Chemistry*: NCA cathode, Si-doped graphite anode
+  - 🧪 *Test Type*: Lab (Calendar and cycle aging)
+  - 🔋 *Battery Format*: Cylindrical (assumed, 196 commercial cells)
+  - 📄 *Summary*: Aging data from 196 commercial lithium-ion cells cycled under varied calendar and cyclic aging conditions. Periodic checkups were conducted at 20°C to evaluate degradation trends. Dataset enables analysis of aging effects under diverse storage and usage conditions.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://mediatum.ub.tum.de/1713382)
+  - 📚 *Related Article*:  
+    - [Experimental degradation study of a commercial lithium-ion battery (Journal of Power Sources, 2022)](https://doi.org/10.1016/j.jpowsour.2022.232498)
+
 - **Continual Learning Battery Aging Dataset**
   - 📍 *Chemistry*: Various (Pouch and prismatic Li-ion cells)
   - 🧪 *Test Type*: Lab (Accelerated and non-accelerated aging)
