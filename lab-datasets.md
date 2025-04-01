@@ -73,6 +73,29 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Article*:
     - [Data-driven prediction of battery cycle life before capacity degradation (Nature Energy, 2019)](https://www.nature.com/articles/s41560-019-0356-8)
 
+---
+
+- **Impedance-Based Forecasting Amid Uneven Usage Dataset**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (EIS, uneven cycling)
+  - 🔋 *Battery Format*: Coin cells (88 units)
+  - 📄 *Summary*: Dataset includes EIS measurements from 88 commercial lithium-ion coin cells cycled under randomly varied charging/discharging currents to simulate realistic uneven usage. Enables the development of impedance-informed performance forecasting models.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://zenodo.org/records/6645536)
+  - 📚 *Related Article*:  
+    - [Impedance-based forecasting under uneven usage (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-32422-w)
+
+---
+
+- **Voltage Relaxation-Based Capacity Estimation Dataset**
+  - 📍 *Chemistry*: NCA, NCM, NCM+NCA
+  - 🧪 *Test Type*: Lab (Cycling + voltage relaxation + EIS)
+  - 🔋 *Battery Format*: Cylindrical (18650, commercial)
+  - 📄 *Summary*: Dataset includes cycling, impedance, and voltage relaxation data from three types of commercial 18650 batteries. Designed to support data-driven capacity estimation and SoH modeling based on relaxation behavior.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset](https://zenodo.org/records/6405084)
+  - 📚 *Related Article*:  
+    - [Voltage relaxation for data-driven capacity estimation (Nature Communications, 2022)](https://doi.org/10.1038/s41467-022-29837-w)
 
 ---
 
