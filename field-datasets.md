@@ -44,14 +44,16 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 🔗 [Download Dataset](https://ora.ox.ac.uk/objects/uuid:e41d3d4c-f74e-4d76-81fd-0caa77ec6cec)
   - 📚 *Related Article*:  
     - [Predicting battery end of life from solar off-grid system field data using machine learning (Joule)](https://www.cell.com/joule/fulltext/S2542-4351(21)00532-8)
-"""
 
 ---
 
-- **Jaguar Land Rover (JLR) Fleet Dataset**
-  - 📍 *Chemistry*: NMC
-  - 🧪 *Test Type*: Field (proprietary)
-  - 🔋 *Battery Format*: EV Pack
-  - 📄 *Summary*: Real-world usage and SoH monitoring of commercial EV fleet (not publicly available)
-  - 📅 *Year*: 2022
-  - 🔗 Not publicly released
+- **On-Road EV Charging Dataset (BAIC EU500, CATL NCM)**
+  - 📍 *Chemistry*: NCM
+  - 🧪 *Test Type*: Field (Commercial EV fleet)
+  - 🔋 *Battery Format*: 90 cells in series, 145Ah, with 32 temperature sensors
+  - 📄 *Summary*: Charging data collected over 29 months from 20 BAIC EU500 EVs equipped with CATL NCM battery packs. Data recorded via CAN every 8 seconds during charging. Used for battery capacity prognostics via Seq2Seq + GPR models. Includes raw data and code for capacity estimation.
+  - 📅 *Year*: Published 2023
+  - 🔗 [Download Dataset](https://doi.org/10.1016/j.apenergy.2023.120954)
+  - 📚 *Related Article*:  
+    - [Prognostics of battery capacity based on charging data and data-driven methods for on-road vehicles (Applied Energy)](https://doi.org/10.1016/j.apenergy.2023.120954)
+"""
