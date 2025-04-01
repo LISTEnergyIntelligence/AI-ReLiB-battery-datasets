@@ -52,6 +52,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📅 *Year*: 2021
   - 🔗 [Link](https://git.rwth-aachen.de/isea/battery-degradation-trajectory-prediction)
 
+- **Lithium-Ion Battery Formation & Structured Aging Dataset**
+  - 📍 *Chemistry*: Not specified (Li-ion cells, BEEP-compatible)
+  - 🧪 *Test Type*: Lab (Formation and aging cycling)
+  - 🔋 *Battery Format*: Cylindrical (assumed from TRI BEEP context)
+  - 📄 *Summary*: Includes raw formation data and structured aging cycling data using the BEEP format. Provides interpolated cycling data and summarized metrics to study the impact of electrode utilization on cycle life extension.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://data.matr.io/8/)
+  - 📚 *Related Article*:  
+    - [Data-driven analysis of battery formation reveals the role of electrode utilization in extending cycle life (Joule, 2024)](https://www.cell.com/joule/abstract/S2542-4351(24)00353-2)
+
 - **Second-Life Li-ion Battery Grid Storage Dataset**
   - 📍 *Chemistry*: NMC
   - 🧪 *Test Type*: Lab (Grid storage simulation for second-life cells)
