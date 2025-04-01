@@ -355,4 +355,15 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://zenodo.org/records/14577286)
   - 📚 *Related Article*:  
     - [Lithium-ion battery degradation modeling using UDEs (Applied Energy, 2024)](https://doi.org/10.1016/j.apenergy.2024.125221)
+---
+
+- **Synthetic Duty Cycles from Autonomous EV Driving Dataset**
+  - 📍 *Chemistry*: N/A (Driving profiles, not battery-specific)
+  - 🧪 *Test Type*: Field driving data (converted to synthetic battery duty cycles)
+  - 🔋 *Battery Format*: Applicable to EV-grade cells (test-agnostic)
+  - 📄 *Summary*: Dataset includes synthetic duty cycles created from real-world autonomous EV driving data. These profiles are tailored for aging and performance testing of batteries in lab environments. Provides representative load patterns based on self-driving vehicle usage.
+  - 📅 *Year*: 2023
+  - 🔗 [Download Dataset](https://purl.stanford.edu/ky011nj6376)
+  - 📚 *Related Article*:  
+    - [Synthetic duty cycles from autonomous EV driving (Cell Reports Physical Science, 2023)](https://doi.org/10.1016/j.xcrp.2023.101536)
 """
