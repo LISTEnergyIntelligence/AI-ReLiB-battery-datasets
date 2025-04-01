@@ -9,12 +9,11 @@ This section lists real-world battery usage datasets (mainly for EVs or emulated
   - 🔋 *Battery Format*: Home storage systems
   - 📄 *Summary*: 21 residential PV-coupled battery systems in Germany, measured over 8 years (2015–2022); includes current, voltage, power, housing and room temperature at 1s resolution. Total: 14B data points, 106 system-years.
   - 📅 *Year*: 2022
-  - 🔗 [Download Dataset](https://zenodo.org/record/7589282)
+  - 🔗 [Download Dataset](https://zenodo.org/records/12091223)
   - 📚 *Related Articles*:
     - *Multi-year field measurements of home storage systems and their use in capacity estimation*
-    - *Capacity estimation of home storage systems using field data*
-    - [Battery Charts](https://battery-charts.rwth-aachen.de/)
-    - 
+    - *Nature Energy, DOI 10.1038/s41560-024-01620-9* 
+    
 - **EVBattery Dataset (labeled)**
   - 📍 *Chemistry*: NMC (Mixed)
   - 🧪 *Test Type*: Field (Real-world EV usage)
