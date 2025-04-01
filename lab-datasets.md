@@ -17,6 +17,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 📚 *Related Institution*: RWTH Aachen University – ISEA Battery Lab
 ---
 
+- **Battery Archive Platform**
+  - 📍 *Chemistry*: Lithium-ion (various)
+  - 🧪 *Test Type*: Lab (Cycle aging, diagnostic, and performance data)
+  - 🔋 *Battery Format*: Mixed (cylindrical, pouch, etc.)
+  - 📄 *Summary*: Open-access repository of battery datasets collected across multiple institutions. Includes aging, cycling, and diagnostic data across chemistries and formats. Features an interactive interface to search, visualize, and compare battery test results under varying conditions.
+  - 📅 *Year*: Ongoing
+  - 🔗 [Visit Battery Archive](https://batteryarchive.org/)
+  - 📚 *Related Info*:  
+    - [Battery Archive introduction (Battery Bits blog)](https://medium.com/batterybits/introducing-batteryarchive-org-a-public-battery-data-repository-d8c23da5eca6)
+---
 - **NASA Battery Data Set**
   - 📍 *Chemistry*: Lithium-ion
   - 🧪 *Test Type*: Lab (Controlled temperature cycling and impedance monitoring)
@@ -366,4 +376,16 @@ A curated list of lab-tested lithium-ion battery datasets used for aging studies
   - 🔗 [Download Dataset](https://purl.stanford.edu/ky011nj6376)
   - 📚 *Related Article*:  
     - [Synthetic duty cycles from autonomous EV driving (Cell Reports Physical Science, 2023)](https://doi.org/10.1016/j.xcrp.2023.101536)
+---
+
+- **Comprehensive Cycle Aging Dataset for Commercial 21700 Cells**
+  - 📍 *Chemistry*: Lithium-ion (21700 format)
+  - 🧪 *Test Type*: Lab (Cycle aging with break-in, RPTs, degradation analysis)
+  - 🔋 *Battery Format*: Cylindrical cells (21700)
+  - 📄 *Summary*: Dataset includes raw and processed cycle aging data for commercial 21700 cells. Each cell underwent break-in, performance checks, RPTs, and aging cycles. Summary data include capacity, resistance, degradation modes, and key metrics. Jupyter notebook and metadata provided for structured parsing and visualization.
+  - 📅 *Year*: 2024–2025
+  - 🔗 [Download Dataset](https://zenodo.org/records/10637534)
+  - 📚 *Related Articles*:
+    - [Comprehensive cycle aging data for 21700 cells (J. Power Sources, 2024)](https://doi.org/10.1016/j.jpowsour.2024.234185)
+    - [Degradation mode analysis for lifetime prediction (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-57968-3)
 """
