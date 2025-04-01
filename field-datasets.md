@@ -102,3 +102,14 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 🔗 [Download Dataset](https://zenodo.org/records/10656500)
   - 📚 *Related Article*:  
     - [Model-constrained DL for fault diagnosis (Nature Communications, 2025)](https://doi.org/10.1038/s41467-025-56832-8)
+---
+
+- **EV Real-World Driving Cycle Aging Dataset**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Lab (Real-world EV driving profiles)
+  - 🔋 *Battery Format*: Cylindrical (INR21700-M50T cells)
+  - 📄 *Summary*: Dataset includes aging data for lithium-ion battery cells subjected to Urban Dynamometer Driving Schedule (UDDS) discharge profiles and CC-CV charging, simulating realistic EV conditions. Monitors capacity fade, HPPC, and EIS across a 28-month testing period.
+  - 📅 *Year*: 2022
+  - 🔗 [Download Dataset]([https://www.sciencedirect.com/science/article/pii/S2352340922002062?via%3Dihub](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78)
+  - 📚 *Related Article*:  
+    - [Lithium-ion battery aging dataset based on EV real-world driving cycles (Data in Brief, 2022)](https://doi.org/10.1016/j.dib.2022.107995)
