@@ -124,4 +124,4 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 📅 *Year*: 2024
   - 🔗 [Download Dataset](https://zenodo.org/record/10656500) *(example placeholder)*
   - 📚 *Related Article*:  
-    - *Realistic fault detection of Li-ion battery via dynamical deep learning approach* (2024)
+    - *Realistic fault detection of Li-ion battery via dynamical deep learning approach (Nature Communications, 2024)(https://doi.org/10.1038/s41467-023-41226-5)
