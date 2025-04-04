@@ -113,3 +113,15 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 🔗 [Download Dataset]([https://www.sciencedirect.com/science/article/pii/S2352340922002062?via%3Dihub](https://osf.io/qsabn/?view_only=2a03b6c78ef14922a3e244f3d549de78)
   - 📚 *Related Article*:  
     - [Lithium-ion battery aging dataset based on EV real-world driving cycles (Data in Brief, 2022)](https://doi.org/10.1016/j.dib.2022.107995)
+
+---
+
+- **Realistic Fault Detection Dataset for Li-ion Batteries**
+  - 📍 *Chemistry*: Lithium-ion
+  - 🧪 *Test Type*: Field (Real-world EV operation, anomaly detection)
+  - 🔋 *Battery Format*: EV battery packs (347 vehicles)
+  - 📄 *Summary*: Dataset contains over 690,000 real-world charging snippets collected from 347 electric vehicles. Designed for evaluating safety conditions and enabling fault detection in Li-ion batteries using deep learning techniques. Supports benchmarking of anomaly detection algorithms under realistic conditions.
+  - 📅 *Year*: 2024
+  - 🔗 [Download Dataset](https://zenodo.org/record/10656500) *(example placeholder)*
+  - 📚 *Related Article*:  
+    - *Realistic fault detection of Li-ion battery via dynamical deep learning approach* (2024)
