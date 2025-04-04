@@ -24,7 +24,16 @@ This section lists real-world battery usage datasets (mainly for EVs or grid sto
   - 📚 *Related Reports*:  
     - *M5BAT Large-Scale Battery Storage System Dataset: Evaluation Operation Report 04/2023*
     - [M5BAT Research Portal](https://m5bat.isea.rwth-aachen.de/Projekt/Forschungsergebnisse/)
-
+---
+- **RWTH Commercial Fleet EV Battery Dataset**
+  - 📍 *Chemistry*: Lithium-ion (EV application)
+  - 🧪 *Test Type*: Field (Multi-year real-world EV operation and battery aging)
+  - 🔋 *Battery Format*: EV battery packs (9 vehicles, 2014–2016 field test)
+  - 📄 *Summary*: Dataset includes time-series data from onboard loggers of 9 electric vehicles operating in commercial geriatric care fleets in Germany. It features vehicle mobility patterns, driving behavior, state-of-charge, plug-in timing, and battery capacity fade data over 3 years. Batteries experienced 3.1–13% capacity fade. Also includes non-intrusive capacity test data from chassis dynamometer.
+  - 📅 *Year*: 2024 (Data from 2014–2016)
+  - 🔗 [Download Dataset](https://publications.rwth-aachen.de/record/979878/files/Electric_Vehicle_and_Battery_Data.zip)
+  - 📚 *Related Article*:  
+    - [Battery Electric Vehicles in Commercial Fleets: Use profiles, battery aging, and open-access data (J. Energy Storage, 2024)](https://doi.org/10.1016/j.est.2024.111030)
 ---
 
 - **Retired Lithium-Ion Batteries Dataset**
